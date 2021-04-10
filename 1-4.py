@@ -15,14 +15,33 @@ import random
 import turtle
 turtle.shape("turtle")
 
-# 색의 종류 red, orange, yellow, green, blue, indigo, violet
-def 도형1():
-    앞으로(25)
-    왼쪽(10)
+# 색의 종류 red,green, blue, indigo, violet
+    # 앞으로(350)
+    # 색('orange')
+    # 왼쪽(180)
+    # 앞으로(350)
+    # 왼쪽(180)
+색('red')
+#for i in range(10):
+    # 색('red')
+    # 색('yellow')
+    # 왼쪽(180)
+    # 앞으로(350)
+    # 색('green')
+    # 앞으로(350)
+    # 색('blue')
+    # 왼쪽(180)
+    # 앞으로(350)
+    # 색('indigo')
+    # 왼쪽(180)
+    # 앞으로(350)
+    # 색('violet')
+
+while True:
+    왼쪽(4)
 
 
 
-그려()
-for i in range(36):
-    도형1()
-그대로두세요()
+
+
+
